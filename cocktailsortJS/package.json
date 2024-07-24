@@ -1,0 +1,15 @@
+{
+  "name": "cocktailsortjs",
+  "version": "1.0.0",
+  "main": "cocktailsort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joaquim",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
