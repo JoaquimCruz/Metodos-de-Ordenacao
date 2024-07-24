@@ -1,7 +1,7 @@
 set datafile separator ","
-set title "Bucketsort"
-set xlabel "Tamanho dos vetores"
-set ylabel "Médias de tempo (ms)"
+set title "Bucketsort" font "Arial, 20"
+set xlabel "Tamanho dos vetores" font "Arial, 20"
+set ylabel "Médias de tempo (ms)" font "Arial, 20"
 set xrange [0:500000]
 set yrange [0:500]
 set grid
@@ -9,5 +9,5 @@ set grid
 set term png size 1350,950
 
 set output "ResultadosBucketsort.png"
-plot "ResultadosBucketsort.csv" using 1:2 with lp lw 3.0 lc 7 title "Média dos tempos de execução", \
+plot "Resultadosbucketsort.csv" using 1:2 with lp lw 3.0 lc 7 title "Média dos tempos de execução", \
     

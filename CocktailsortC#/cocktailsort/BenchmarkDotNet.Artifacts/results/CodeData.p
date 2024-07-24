@@ -1,7 +1,7 @@
 set datafile separator ","
-set title "Cocktail sort"
-set xlabel "Tamanho dos vetores"
-set ylabel "Médias de tempo (us)"
+set title "Cocktail sort" font "Arial, 20"
+set xlabel "Tamanho dos vetores" font "Arial, 20"
+set ylabel "Médias de tempo (us)" font "Arial, 20"
 set xrange [0:500000]
 set yrange [0:200000000]
 set grid
