@@ -1,0 +1,5 @@
+# Tamanho do Vetor,Tempo de Execução Médio (ms)
+1000,0.39
+10000,1.12
+100000,6.67
+500000,67.12

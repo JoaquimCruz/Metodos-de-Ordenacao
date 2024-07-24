@@ -1,0 +1,5 @@
+/home/joaquim/Documents/cocktailsortc++/build/CMakeFiles/edit_cache.dir
+/home/joaquim/Documents/cocktailsortc++/build/CMakeFiles/rebuild_cache.dir
+/home/joaquim/Documents/cocktailsortc++/build/src/CMakeFiles/benchmark_example.dir
+/home/joaquim/Documents/cocktailsortc++/build/src/CMakeFiles/edit_cache.dir
+/home/joaquim/Documents/cocktailsortc++/build/src/CMakeFiles/rebuild_cache.dir
