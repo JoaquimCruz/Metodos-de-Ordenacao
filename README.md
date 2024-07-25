@@ -12,7 +12,7 @@
 <p align="justify">
   
 </p>
-Esse repositório e dedicado a armazenar as pastas com os arquivos referentes ao seminário sobre Métodos de Ordenação, da disciplina Algoritmos e Estrutura de Dados (AEDS). Para 
+Esse repositório é dedicado a armazenar as pastas com os arquivos referentes ao seminário sobre Métodos de Ordenação, da disciplina Algoritmos e Estrutura de Dados (AEDS). Para 
 o trabalho, foram utilizadas 6 linguagens de programação:
 
 - C++
