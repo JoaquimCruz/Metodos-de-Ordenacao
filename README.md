@@ -22,4 +22,5 @@ o trabalho, foram utilizadas 6 linguagens de programação:
 - JavaScript
 - Python
 
-Além das pastas que contém as implementações dos algoritmos analisados - Cocktail Sort e Bucket Sort - possui o Artigo em formato PDF com os resultados dos experimentos. 
+Além das pastas que contém as implementações dos algoritmos analisados - Cocktail Sort e Bucket Sort - há o [artigo em formato PDF](https://github.com/JoaquimCruz/Metodos-de-Ordenacao/blob/main/Artigo_Metodos_Ordenacao.pdf) com os resultados dos experimentos.
+
